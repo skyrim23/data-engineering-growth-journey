@@ -34,7 +34,7 @@ Failure definition:
 
 | Day | Date       | Minutes | Artifact / Commit Link                     | Insight (1 line)                       | Status |
 |-----|------------|---------|--------------------------------------------|----------------------------------------|--------|
-
+| 1   | 16-Nov-2025| 95      | notes/spark-execution-model.md                 |  Learned execution plan basics      | Done   |
 
 
 

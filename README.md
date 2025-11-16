@@ -3,8 +3,11 @@
 
 
 Mission: becoming senior level data engineer
+
 Timeline: 12 weeks
-Daily commitment rules:
+
+Daily commitment rules: 
+
                 1. Total 90 minutes of focused tracked work 
                             - 90 min block or two 45 min blocks
                             - no zero days ever
@@ -20,12 +23,17 @@ Daily commitment rules:
                             WFO: 7:30 - 9:00
                 6. No dopamine traps
 
+Failure definition: 
 
-            Failure definition: 
-                not completing 90 minutes in a day, regardless of reasons or schedule disruptions
-                if failure happens write a post mortem - (root cause -> fix -> prevention) not excuses
+                1. not completing 90 minutes in a day, regardless of reasons or schedule disruptions
+                2. if failure happens write a post mortem - (root cause -> fix -> prevention) not excuses
 
 
+
+### 📌 Proof Log
+
+| Day | Date       | Minutes | Artifact / Commit Link                     | Insight (1 line)                       | Status |
+|-----|------------|---------|--------------------------------------------|----------------------------------------|--------|
 
 
 

@@ -34,7 +34,9 @@ Failure definition:
 
 | Day | Date       | Minutes | Artifact / Commit Link                     | Insight (1 line)                       | Status |
 |-----|------------|---------|--------------------------------------------|----------------------------------------|--------|
-| 1   | 16-Nov-2025| 95      | notes/spark-execution-model.md                 |  Learned execution plan basics      | Done   |
+| 1   | 16-Nov-2025| 95      | notes/spark-execution-model.md             |  Learned execution plan basics      | Done   |
+| 2   | 17-Nov-2025| 100     | notes/partitioning-and-data-skew.md        |  difference between hash partitioning and range partitioning       | Done   |
+
 
 
 

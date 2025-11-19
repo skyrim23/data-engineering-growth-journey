@@ -36,6 +36,8 @@ Failure definition:
 |-----|------------|---------|--------------------------------------------|----------------------------------------|--------|
 | 1   | 16-Nov-2025| 95      | notes/spark-execution-model.md             |  Learned execution plan basics      | Done   |
 | 2   | 17-Nov-2025| 100     | notes/partitioning-and-data-skew.md        |  difference between hash partitioning and range partitioning       | Done   |
+| 3   | 18-Nov-2025| 90     | none         |  data skew, salting, custom partitioning, range partitioning       | Done   |
+| 4   | 19-Nov-2025| 100     | spark-optimization/lab3_skew_and_mitigation.ipynb        |  learned custom partitioning use cases and that it cant be used in dataframe       | Done   |
 
 
 
